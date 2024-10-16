@@ -1,6 +1,6 @@
 # APK Significant properties extractor
 
-This script extracts the file `AndroidManifest.xml` from an APK package, decodes it and outputs the significant properties of the APK defined by the user in the `axml.ini` file both in the shell and in an XML file.
+This script extracts the file `AndroidManifest.xml` from an APK package, decodes it and outputs the significant properties of the APK, defined by the user in the `axml.ini` file, both to the shell and to an XML file.
 
 ## Use
 Define the properties you want to extract from the APK file in the `axml.ini` file (omit the "android:" namespace). Different attributes of the same element are appended and separated by "@" as shown in the [axml.ini](axml.ini) sample file.
