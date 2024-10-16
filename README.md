@@ -10,6 +10,6 @@ Run the `main.py` file and provide
 * Optionnally, as the second argument, the expected filename of the XML output (it will be "result.xml" by defualt).
 `
 ## Credits
-The script `axml.py` was reused from https://gist.github.com/i64/b7d9d5e9c7745c276d34ac21289f6537
+The script `axml.py` was reused from [@i64](https://github.com/i64): https://gist.github.com/i64/b7d9d5e9c7745c276d34ac21289f6537
 
 The script `main.py` was originally made by Jérémy Lavalley (Bibliothèque nationale de France) then edited by me.
